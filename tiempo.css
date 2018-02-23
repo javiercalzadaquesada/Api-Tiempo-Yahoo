@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Dense";
+    font-style: normal;
+    font-weight: normal;
+    src: local("?"), url("Dense-Regular.ttf") format("truetype");
+}
+* {font-family: "Dense"; color:#FFFFFF}
+#hora {font-size: 550%; border-bottom:none}
+#fecha {font-size: 200%; border-top:none}
+#adicional {font-size: 200%}
+#pres {font-size: 75%}
+form input {color:#111364}
